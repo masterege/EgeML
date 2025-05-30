@@ -1,0 +1,8 @@
+README.md
+setup.py
+egeml.egg-info/PKG-INFO
+egeml.egg-info/SOURCES.txt
+egeml.egg-info/dependency_links.txt
+egeml.egg-info/requires.txt
+egeml.egg-info/top_level.txt
+src/__init__.py
